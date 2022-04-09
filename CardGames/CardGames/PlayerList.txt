@@ -1,0 +1,9 @@
+randomdude99 1000 5 16 9
+yellow_hare 1001 0 2 5
+tech_guy21 1002 10 26 3
+c0013r00 1003 15 0 1
+BlueBox22 1004 0 3 0
+RedSerpent04 1005 20 47 2
+pink_unicorn 1006 1 6 7
+RealBeast45 1007 60 122 1
+RedRobinYum 1008 24 9 0
